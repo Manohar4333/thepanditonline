@@ -3,7 +3,7 @@
   IMPORTANT: Replace WHATSAPP_NUMBER with your business WhatsApp number.
   Use country code + number, digits only. Example for India: 919876543210.
 */
-const WHATSAPP_NUMBER = "91XXXXXXXXXX"; // TODO: Replace with your real number.
+const WHATSAPP_NUMBER = "918187837366"; // TODO: Replace with your real number.
 
 const form = document.getElementById("bookingForm");
 const errorBox = document.getElementById("formError");
